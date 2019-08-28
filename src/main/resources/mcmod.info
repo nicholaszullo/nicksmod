@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nicksmod",
+  "name": "Nick's Mod",
+  "description": "Trying to add stuff to minecraft as experience for internship companies to see :)",
+  "version": "${1.1}",
+  "mcversion": "${}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nick Zullo"],
+  "credits": "All code by Nick Zullo, tutorials from youtube.com/Pahimar",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

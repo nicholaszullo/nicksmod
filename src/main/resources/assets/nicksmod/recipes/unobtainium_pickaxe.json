@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        " B ",
+        " B "
+    ],
+    "key": {
+        "A": {
+            "item": "nicksmod:unobtainiumingot"
+        },
+        "B": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "nicksmod:unobtainiumpickaxe"
+    }
+}
